@@ -1,0 +1,6 @@
+﻿  Compulsory3.cpp
+  General_tree_class.cpp
+  Graph_class.cpp
+D:\algorithms and data structures for games\Compulsary3\compulsory3\Compulsory3\Compulsory3\Graph_class.cpp(60,30): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  Compulsory3.vcxproj -> D:\algorithms and data structures for games\Compulsary3\compulsory3\Compulsory3\x64\Debug\Compulsory3.exe
